@@ -1,0 +1,14 @@
+.imgDiv {
+  margin-top: 60px;
+  margin-left: 40%;
+}
+
+.rangeDiv {
+  margin-top: 80px;
+  margin-left: 35%;
+}
+
+#range {
+  width: 600px;
+  accent-color: green;
+}
